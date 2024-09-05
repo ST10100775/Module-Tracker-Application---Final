@@ -1,6 +1,5 @@
 # Final Features for the Module Tracking Application
 
-## Refer to the PoE for the Final Version
 
 ## Application Operation Steps:
 
